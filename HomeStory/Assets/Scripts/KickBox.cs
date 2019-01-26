@@ -29,11 +29,12 @@ public class KickBox : MonoBehaviour {
                 hit.collider.attachedRigidbody.AddExplosionForce(1000, player.transform.position, 100);
                 if (--HP == 0)
                 {
-                    if (++Static.kicked >= 20)
+                    if (++Static.kicked >= 3)
                         Static.Completed();
                     else
                         UpdateProgress.Message = "Очистите кладовку от коробок, кликая на них: " + Static.kicked + "/20\nДоберитесь до центра комнаты";
 
+                    //box destroy animation
                     Destroy(filter.gameObject);
                 }
             }
@@ -44,9 +45,4 @@ public class KickBox : MonoBehaviour {
 	void Update () {
 		
 	}
-
-    void moveObj(GameObject GO, float dx, float dy, float dz) {
-
-        GO.transform.position = new Vector3(GO.transform.position.x + dx, GO.transform.position.y + dy, GO.transform.position.z + dz);
-    }
 }

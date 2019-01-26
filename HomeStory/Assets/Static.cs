@@ -8,12 +8,15 @@ public class Static : MonoBehaviour {
     public delegate void Complete();
     public static Complete Completed;
     public static bool BoxesKilled = false;
+    public static bool FirstChestRead = false;
 
     public static int TopChestsOpened = 0;
     public static bool LastChestRead = false;
     public static bool KeyGot = false;
     public static bool MysteryRoomOpened = false;
     public static bool MainChestOpened = false;
+
+    public static bool QuestAnswered = false;
 
 	// Use this for initialization
 	void Start () {
