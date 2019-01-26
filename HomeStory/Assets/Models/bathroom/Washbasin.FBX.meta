@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: ed0e4a21b4c17e145b381b8a32553e7f
+timeCreated: 1548466711
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: ' 2'
+    100004: ' 3'
+    100006: ' 4'
+    100008: ' 5'
+    100010: ' 6'
+    100012: Faucet
+    100014: faucet
+    100016: Handle001
+    100018: Handle002
+    100020: Handle003
+    100022: Handle004
+    100024: Handle005
+    100026: Leg tables
+    100028: Light001
+    100030: Light001 1
+    100032: Light002
+    100034: Locker
+    100036: Locker001
+    100038: Mirror
+    100040: Mirror 1
+    100042: Omni001
+    100044: Omni002
+    100046: Plums
+    100048: Podium
+    100050: Scena
+    100052: Stoke
+    100054: TPhotometricLight001
+    100056: TPhotometricLight001.Target
+    100058: TPhotometricLight002
+    100060: TPhotometricLight002.Target
+    100062: Tumba001
+    100064: Tumba002
+    100066: Valve cold
+    100068: Valve hot
+    100070: VRayLight001
+    100072: VRayLight001.Target
+    100074: VRayPhysicalCamera001
+    100076: VRayPhysicalCamera001.Target
+    100078: VRayPhysicalCamera002
+    100080: VRayPhysicalCamera002.Target
+    100082: VRayPhysicalCamera003
+    100084: VRayPhysicalCamera003.Target
+    100086: VRayPhysicalCamera004
+    100088: VRayPhysicalCamera004.Target
+    100090: //RootNode
+    400000: ' 1'
+    400002: ' 2'
+    400004: ' 3'
+    400006: ' 4'
+    400008: ' 5'
+    400010: ' 6'
+    400012: Faucet
+    400014: faucet
+    400016: Handle001
+    400018: Handle002
+    400020: Handle003
+    400022: Handle004
+    400024: Handle005
+    400026: Leg tables
+    400028: Light001
+    400030: Light001 1
+    400032: Light002
+    400034: Locker
+    400036: Locker001
+    400038: Mirror
+    400040: Mirror 1
+    400042: Omni001
+    400044: Omni002
+    400046: Plums
+    400048: Podium
+    400050: Scena
+    400052: Stoke
+    400054: TPhotometricLight001
+    400056: TPhotometricLight001.Target
+    400058: TPhotometricLight002
+    400060: TPhotometricLight002.Target
+    400062: Tumba001
+    400064: Tumba002
+    400066: Valve cold
+    400068: Valve hot
+    400070: VRayLight001
+    400072: VRayLight001.Target
+    400074: VRayPhysicalCamera001
+    400076: VRayPhysicalCamera001.Target
+    400078: VRayPhysicalCamera002
+    400080: VRayPhysicalCamera002.Target
+    400082: VRayPhysicalCamera003
+    400084: VRayPhysicalCamera003.Target
+    400086: VRayPhysicalCamera004
+    400088: VRayPhysicalCamera004.Target
+    400090: //RootNode
+    2300000: faucet
+    2300002: Handle001
+    2300004: Handle002
+    2300006: Handle003
+    2300008: Handle004
+    2300010: Handle005
+    2300012: Leg tables
+    2300014: Light001 1
+    2300016: Light002
+    2300018: Locker
+    2300020: Locker001
+    2300022: Mirror 1
+    2300024: Plums
+    2300026: Podium
+    2300028: Stoke
+    2300030: Tumba001
+    2300032: Tumba002
+    2300034: Valve cold
+    2300036: Valve hot
+    3300000: faucet
+    3300002: Handle001
+    3300004: Handle002
+    3300006: Handle003
+    3300008: Handle004
+    3300010: Handle005
+    3300012: Leg tables
+    3300014: Light001 1
+    3300016: Light002
+    3300018: Locker
+    3300020: Locker001
+    3300022: Mirror 1
+    3300024: Plums
+    3300026: Podium
+    3300028: Stoke
+    3300030: Tumba001
+    3300032: Tumba002
+    3300034: Valve cold
+    3300036: Valve hot
+    4300000: Podium
+    4300002: Locker
+    4300004: Handle003
+    4300006: Plums
+    4300008: faucet
+    4300010: Valve cold
+    4300012: Valve hot
+    4300014: Tumba001
+    4300016: Stoke
+    4300018: Handle004
+    4300020: Handle005
+    4300022: Tumba002
+    4300024: Handle001
+    4300026: Locker001
+    4300028: Handle002
+    4300030: Mirror
+    4300032: Light002
+    4300034: Light001
+    4300036: Leg tables
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

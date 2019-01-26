@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 1e13aa4cc40093845959f24764482101
+timeCreated: 1548457670
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_and_Bo
+    100002: Cube
+    100004: Cube1
+    100006: Cube_
+    100008: Cube_1
+    100010: Cube_1 1
+    100012: Cube_2
+    100014: Cube_2 1
+    100016: Cube_3
+    100018: Cube_3 1
+    100020: Cube_4
+    100022: Cube_5
+    100024: Cube_6
+    100026: Cushions
+    100028: Illuminati
+    100030: Light
+    100032: Light.target
+    100034: Light_1
+    100036: Light_1.target
+    100038: Null
+    100040: Pillows
+    100042: //RootNode
+    100044: Seat
+    100046: Sweep_NURB
+    100048: Wood_Floor
+    400000: Arm_and_Bo
+    400002: Cube
+    400004: Cube1
+    400006: Cube_
+    400008: Cube_1
+    400010: Cube_1 1
+    400012: Cube_2
+    400014: Cube_2 1
+    400016: Cube_3
+    400018: Cube_3 1
+    400020: Cube_4
+    400022: Cube_5
+    400024: Cube_6
+    400026: Cushions
+    400028: Illuminati
+    400030: Light
+    400032: Light.target
+    400034: Light_1
+    400036: Light_1.target
+    400038: Null
+    400040: Pillows
+    400042: //RootNode
+    400044: Seat
+    400046: Sweep_NURB
+    400048: Wood_Floor
+    2300000: Arm_and_Bo
+    2300002: Cube
+    2300004: Cube1
+    2300006: Cube_
+    2300008: Cube_1
+    2300010: Cube_1 1
+    2300012: Cube_2
+    2300014: Cube_2 1
+    2300016: Cube_3
+    2300018: Cube_3 1
+    2300020: Cube_4
+    2300022: Cube_5
+    2300024: Cube_6
+    2300026: Cushions
+    2300028: Illuminati
+    2300030: Null
+    2300032: Pillows
+    2300034: Seat
+    2300036: Sweep_NURB
+    2300038: Wood_Floor
+    3300000: Arm_and_Bo
+    3300002: Cube
+    3300004: Cube1
+    3300006: Cube_
+    3300008: Cube_1
+    3300010: Cube_1 1
+    3300012: Cube_2
+    3300014: Cube_2 1
+    3300016: Cube_3
+    3300018: Cube_3 1
+    3300020: Cube_4
+    3300022: Cube_5
+    3300024: Cube_6
+    3300026: Cushions
+    3300028: Illuminati
+    3300030: Null
+    3300032: Pillows
+    3300034: Seat
+    3300036: Sweep_NURB
+    3300038: Wood_Floor
+    4300000: Null
+    4300002: Illuminati
+    4300004: Seat
+    4300006: Pillows
+    4300008: Cube_6
+    4300010: Cube_5
+    4300012: Cube_4
+    4300014: Cube_3
+    4300016: Cube
+    4300018: Cube_
+    4300020: Cushions
+    4300022: Cube_1
+    4300024: Cube_2
+    4300026: Arm_and_Bo
+    4300028: Cube1
+    4300030: Sweep_NURB
+    4300032: Wood_Floor
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

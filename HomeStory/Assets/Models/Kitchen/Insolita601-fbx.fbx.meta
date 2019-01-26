@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 25cf09946164c96478c303d30147f9a2
+timeCreated: 1548469652
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1
+    100002: 2
+    100004: 3
+    100006: body
+    100008: Box091_1
+    100010: Cap_1
+    100012: Cap_2
+    100014: chrome
+    100016: CINEMA_4D_Editor
+    100018: Cube_1
+    100020: Disc_1
+    100022: Extrude
+    100024: Filtr
+    100026: filtr_frame
+    100028: filtr_siatka
+    100030: glass
+    100032: Inoslita60_1
+    100034: //RootNode
+    100036: lajt
+    100038: logo
+    100040: nit
+    100042: nit_2
+    100044: nit_Instance
+    100046: Null
+    100048: Null_2
+    100050: obudowa
+    100052: on_off
+    100054: Rounding_1
+    100056: Rounding_2
+    100058: stainless_1
+    100060: swiatlo
+    100062: Symmetry
+    100064: Symmetry_3
+    100066: "\u017Car\xF3ka"
+    400000: 1
+    400002: 2
+    400004: 3
+    400006: body
+    400008: Box091_1
+    400010: Cap_1
+    400012: Cap_2
+    400014: chrome
+    400016: CINEMA_4D_Editor
+    400018: Cube_1
+    400020: Disc_1
+    400022: Extrude
+    400024: Filtr
+    400026: filtr_frame
+    400028: filtr_siatka
+    400030: glass
+    400032: Inoslita60_1
+    400034: //RootNode
+    400036: lajt
+    400038: logo
+    400040: nit
+    400042: nit_2
+    400044: nit_Instance
+    400046: Null
+    400048: Null_2
+    400050: obudowa
+    400052: on_off
+    400054: Rounding_1
+    400056: Rounding_2
+    400058: stainless_1
+    400060: swiatlo
+    400062: Symmetry
+    400064: Symmetry_3
+    400066: "\u017Car\xF3ka"
+    2300000: 1
+    2300002: 2
+    2300004: 3
+    2300006: body
+    2300008: Box091_1
+    2300010: Cap_1
+    2300012: Cap_2
+    2300014: chrome
+    2300016: Cube_1
+    2300018: Disc_1
+    2300020: Extrude
+    2300022: filtr_frame
+    2300024: filtr_siatka
+    2300026: glass
+    2300028: lajt
+    2300030: logo
+    2300032: nit
+    2300034: nit_2
+    2300036: obudowa
+    2300038: on_off
+    2300040: Rounding_1
+    2300042: Rounding_2
+    2300044: stainless_1
+    2300046: swiatlo
+    3300000: 1
+    3300002: 2
+    3300004: 3
+    3300006: body
+    3300008: Box091_1
+    3300010: Cap_1
+    3300012: Cap_2
+    3300014: chrome
+    3300016: Cube_1
+    3300018: Disc_1
+    3300020: Extrude
+    3300022: filtr_frame
+    3300024: filtr_siatka
+    3300026: glass
+    3300028: lajt
+    3300030: logo
+    3300032: nit
+    3300034: nit_2
+    3300036: obudowa
+    3300038: on_off
+    3300040: Rounding_1
+    3300042: Rounding_2
+    3300044: stainless_1
+    3300046: swiatlo
+    4300000: logo
+    4300002: chrome
+    4300004: lajt
+    4300006: glass
+    4300008: obudowa
+    4300010: on_off
+    4300012: 3
+    4300014: swiatlo
+    4300016: 1
+    4300018: 2
+    4300020: stainless_1
+    4300022: filtr_frame
+    4300024: filtr_siatka
+    4300026: Cube_1
+    4300028: nit
+    4300030: Extrude
+    4300032: Rounding_1
+    4300034: Cap_1
+    4300036: Rounding_2
+    4300038: Cap_2
+    4300040: nit_2
+    4300042: Box091_1
+    4300044: Disc_1
+    4300046: body
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

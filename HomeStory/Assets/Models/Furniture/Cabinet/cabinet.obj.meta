@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: a742f14a446d14741bed52e9179c1da3
+timeCreated: 1548461100
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back_side
+    100002: board_01
+    100004: board_02
+    100006: board_03
+    100008: board_04
+    100010: board_05
+    100012: board_06
+    100014: body_01
+    100016: body_02
+    100018: body_03
+    100020: //RootNode
+    100022: case
+    100024: decor_01
+    100026: decor_02
+    100028: decor_03
+    100030: decor_04
+    100032: decor_05
+    100034: decor_06
+    100036: decor_07
+    100038: decor_08
+    100040: decor_09
+    100042: doors
+    100044: frame
+    100046: front_side
+    100048: legs
+    100050: metal_objects_01
+    100052: metal_objects_02
+    100054: rim
+    400000: back_side
+    400002: board_01
+    400004: board_02
+    400006: board_03
+    400008: board_04
+    400010: board_05
+    400012: board_06
+    400014: body_01
+    400016: body_02
+    400018: body_03
+    400020: //RootNode
+    400022: case
+    400024: decor_01
+    400026: decor_02
+    400028: decor_03
+    400030: decor_04
+    400032: decor_05
+    400034: decor_06
+    400036: decor_07
+    400038: decor_08
+    400040: decor_09
+    400042: doors
+    400044: frame
+    400046: front_side
+    400048: legs
+    400050: metal_objects_01
+    400052: metal_objects_02
+    400054: rim
+    2300000: back_side
+    2300002: board_01
+    2300004: board_02
+    2300006: board_03
+    2300008: board_04
+    2300010: board_05
+    2300012: board_06
+    2300014: body_01
+    2300016: body_02
+    2300018: body_03
+    2300020: case
+    2300022: decor_01
+    2300024: decor_02
+    2300026: decor_03
+    2300028: decor_04
+    2300030: decor_05
+    2300032: decor_06
+    2300034: decor_07
+    2300036: decor_08
+    2300038: decor_09
+    2300040: doors
+    2300042: frame
+    2300044: front_side
+    2300046: legs
+    2300048: metal_objects_01
+    2300050: metal_objects_02
+    2300052: rim
+    3300000: back_side
+    3300002: board_01
+    3300004: board_02
+    3300006: board_03
+    3300008: board_04
+    3300010: board_05
+    3300012: board_06
+    3300014: body_01
+    3300016: body_02
+    3300018: body_03
+    3300020: case
+    3300022: decor_01
+    3300024: decor_02
+    3300026: decor_03
+    3300028: decor_04
+    3300030: decor_05
+    3300032: decor_06
+    3300034: decor_07
+    3300036: decor_08
+    3300038: decor_09
+    3300040: doors
+    3300042: frame
+    3300044: front_side
+    3300046: legs
+    3300048: metal_objects_01
+    3300050: metal_objects_02
+    3300052: rim
+    4300000: back_side
+    4300002: board_01
+    4300004: board_02
+    4300006: board_03
+    4300008: board_04
+    4300010: board_05
+    4300012: board_06
+    4300014: body_01
+    4300016: body_02
+    4300018: body_03
+    4300020: case
+    4300022: decor_01
+    4300024: decor_02
+    4300026: decor_03
+    4300028: decor_04
+    4300030: decor_05
+    4300032: decor_06
+    4300034: decor_07
+    4300036: decor_08
+    4300038: decor_09
+    4300040: doors
+    4300042: frame
+    4300044: front_side
+    4300046: legs
+    4300048: metal_objects_01
+    4300050: metal_objects_02
+    4300052: rim
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
